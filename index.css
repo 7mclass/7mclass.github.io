@@ -4,7 +4,8 @@ body {
 }
 
 menu {
-    background-color: #54a1a1;    
+    background-color: #54a1a1;
+    margin: 0;    
 }
 
 menu_el {
